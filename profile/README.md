@@ -10,7 +10,7 @@
 전사적인 디지털 전환과 스마트한 업무 환경을 구축하여 데이터 중심의 비즈니스 경쟁력을 강화해 나갑니다.
 
 * **공식 홈페이지:** [iroyalbath.com](https://www.iroyalbath.com/)
-* **공식 온라인 몰 (Royal Mall):** [royalmall.co.kr](https://royalmall.co.kr/)
+* **공식 온라인 몰 (Royal Mall):** [royalmall.co.kr](https://mall.iroyalbath.com/)
 * **IT 문의 및 지원:** [it@iroyal.kr](mailto:it@iroyal.kr)
 
 ---
