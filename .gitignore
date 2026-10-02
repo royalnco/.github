@@ -1,0 +1,27 @@
+# 환경변수 및 비밀 정보
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+credentials.json
+serviceAccount*.json
+
+# 빌드 산출물
+dist/
+build/
+out/
+node_modules/
+
+# 로그
+*.log
+logs/
+
+# 임시 파일
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
