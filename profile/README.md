@@ -23,11 +23,12 @@ AI를 통해 제작된 모든 결과물은 회사의 중요한 디지털 자산�
 
 ---
 
-### 🚀 AI 활용 소개 페이지
+### 🚀 AI 활용 페이지
 
-AI Claude를 활용하여 새롭게 제작한 로얄앤컴퍼니 AI 소개 페이지입니다.
+AI Claude를 활용하여 새롭게 제작한 로얄앤컴퍼니의 페이지입니다.
 
-* **Royal AI Intro:** [royalnco.github.io/royal-ai-intro](https://royalnco.github.io/royal-ai-intro/)
+* **Royal AI Intro (AI 소개):** [royalnco.github.io/royal-ai-intro](https://royalnco.github.io/royal-ai-intro/)
+* **AI CX Chatbot (기술 상담 챗봇):** [royalnco.github.io/ai-cx-chatbot](https://royalnco.github.io/ai-cx-chatbot/)
 
 ---
 
